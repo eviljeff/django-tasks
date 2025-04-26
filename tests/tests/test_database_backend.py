@@ -619,8 +619,8 @@ class DatabaseBackendWorkerTestCase(TransactionTestCase):
                 high_priority_far_future_result,
                 high_priority_result,
                 low_priority_result,
-                far_future_result,
                 future_result,
+                far_future_result,
                 lower_priority_result,
             ],
         )
